@@ -16,10 +16,22 @@
     "boilerplate",
     "webserver"
   ],
-  "author": "Nick Drewe (nick.drewe@gmail.com)",
+  "author": {
+    "name": "Wethrift",
+    "email": "hello@wethrift.com",
+    "url": "https://www.wethrift.com"
+  },
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:teamwethrift/simple-express-handlebars-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teamwethrift/simple-express-handlebars-boilerplate/issues"
+  },
+  "homepage": "https://www.wethrift.com"
 }

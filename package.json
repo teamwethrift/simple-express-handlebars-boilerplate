@@ -1,0 +1,25 @@
+{
+  "name": "simple-express-handlebars-boilerplate",
+  "version": "1.0.0",
+  "description": "A minimal ExpressJS server boilerplate using Handlebars view engine.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "server",
+    "node",
+    "handlebars",
+    "boilerplate",
+    "webserver"
+  ],
+  "author": "Nick Drewe (nick.drewe@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}

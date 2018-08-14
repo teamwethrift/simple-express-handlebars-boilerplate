@@ -1,5 +1,5 @@
 {
-  "name": "Simple ExpressJS Handlebars Boilerplate",
+  "name": "Simple ExpressJS Handlebars",
   "description": "A minimal ExpressJS server boilerplate using Handlebars view engine.",
   "repository": "https://github.com/teamwethrift/simple-express-handlebars-boilerplate",
   "logo": "https://i.imgur.com/ksfkDzc.png",

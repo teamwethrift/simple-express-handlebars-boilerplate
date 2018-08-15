@@ -12,10 +12,15 @@
     "expressjs",
     "server",
     "node",
+    "nodejs",
     "handlebars",
     "boilerplate",
-    "webserver"
+    "template",
+    "templates",
+    "webserver",
+    "css"
   ],
+  "readmeFilename": "README.md",
   "author": {
     "name": "Wethrift",
     "email": "hello@wethrift.com",
@@ -33,5 +38,5 @@
   "bugs": {
     "url": "https://github.com/teamwethrift/simple-express-handlebars-boilerplate/issues"
   },
-  "homepage": "https://www.wethrift.com"
+  "homepage": "https://wethrift.github.io"
 }

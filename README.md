@@ -19,7 +19,8 @@ We've used this boilerplate as the starting point for components of [Wethrift](h
 
 ## Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamwethrift/simple-express-handlebars-boilerplate)
-Deploy to Heroku with one click
+
+Deploy [simple-express-handlebars-boilerplate](https://elements.heroku.com/buttons/teamwethrift/simple-express-handlebars-boilerplate) to Heroku with one click from the Heroku Elements Marketplace.
 
 Alternatively, install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), clone this repo and [create a new app](https://devcenter.heroku.com/articles/creating-apps).
 

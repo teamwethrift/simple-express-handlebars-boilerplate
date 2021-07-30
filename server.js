@@ -12,6 +12,8 @@ const app = express()
 // use express-handlebars view engine and set views template directory
 const hbs = exphbs.create({
   partialsDir: __dirname + '/views/partials',
+  layoutsDir: __dirname + "/views/layouts",
+  defaultLayout: "main",
   helpers: helpers()
 })
 
